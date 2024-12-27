@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veathprakash
 - 👀 I’m interested in PRESENTATITON
-- 🌱 I’m currently learning MECHANICAL ENGINEERING
+- 🌱 I’m currently learning Data Analytics and science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

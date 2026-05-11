@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veathprakash
 - 👀 I’m interested in PRESENTATITON
-- 🌱 I’m currently learning Data Analytics and science
+- Currently Working as Data analyst in Hitachi Payment Services Pvt Ltd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - E-mail id :- Prakashveath@gmail.com
